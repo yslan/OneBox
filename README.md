@@ -12,7 +12,7 @@ Features:
 driver_box2d
 ```
 | Fluid Core | Fluid Box | Solid |
-|:---:|:---:|:---:|:---:|:---:|
+|:---:|:---:|:---:|
 | ![](demo_figs/box0.png) | ![](demo_figs/box1.png) | ![](demo_figs/box2.png) |
 
 - box0:  
